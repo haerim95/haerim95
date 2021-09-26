@@ -11,7 +11,7 @@
 
 개인 개발 티스토리 블로그는 요기 ⤵️  
 <br/>
-[림찌의 개발일기 티스토리 블로그 바로가기](https://haerim95.tistory.com/){:target="_blank"}
+<a href="https://haerim95.tistory.com/" target="_blank">림찌의 개발일기 티스토리 블로그 바로가기</a>
 ---  
 
 #### 퍼블리셔 경력 2년 6개월 차.  
